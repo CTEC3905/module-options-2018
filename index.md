@@ -5,8 +5,6 @@
 **Dave Everitt**: deveritt@dmu.ac.uk  
 **Fania Raczinski**: fania.raczinski@dmu.ac.uk
 
-[index of contents](contents/)
-
 # Overview
 
 - very popuar module with **limited spaces**
