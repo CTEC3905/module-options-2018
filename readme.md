@@ -2,4 +2,4 @@
 
 Slides for the presentation
 
-Uses [rjsmake](https://github.com/eosrei/rjsmake) and Pandoc to generate HTML slides from Markdwon
+Uses [rjsmake](https://github.com/eosrei/rjsmake) and [Pandoc(https://pandoc.org/)] to generate HTML slides from Markdown using [Reveal.js](https://revealjs.com/)
