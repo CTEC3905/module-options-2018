@@ -1,1 +1,13 @@
 /* Apply any CSS customizations here */
+strong {
+    color: #aae;
+    text-shadow: #000 0 2px 3px;
+}
+code {
+    color: #aea;
+}
+.reveal section img {
+    border: 0;
+    padding: 0 12px;
+    border-radius: 4px;
+}
