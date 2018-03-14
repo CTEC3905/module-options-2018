@@ -1,3 +1,5 @@
+% module options: CTEC3905 Front-End Web Development
+
 # CTEC3905
 
 **Front-End Web Development**
@@ -6,6 +8,8 @@
 
 Dave Everitt: deveritt@dmu.ac.uk  
 Fania Raczinski: fania.raczinski@dmu.ac.uk
+
+[Panopto video of presentation](https://panopto.dmu.ac.uk/Panopto/Pages/Viewer.aspx?id=2b6f1a1e-1ad2-4b16-bc5d-19d76790c533)
 
 # Overview
 
